@@ -4,7 +4,7 @@ source 'https://rubygems.org' do
   gem 'jbuilder'
   gem 'jquery-rails'
   gem 'mysql2', '~> 0.3.20'
-  gem 'rails', '4.2.4'
+  gem 'rails', '4.2.10'
   gem 'sass-rails'
   gem 'slim-rails'
   gem 'uglifier'
