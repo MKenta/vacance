@@ -1,4 +1,3 @@
-ruby '2.2.3'
 
 source 'https://rubygems.org' do
   gem 'coffee-rails'
@@ -44,7 +43,6 @@ source 'https://rubygems.org' do
 
   group :production do
     gem 'unicorn', '~> 4.9.0'
-    gem 'pg',             '0.17.1'
     gem 'rails_12factor', '0.0.2'
   end
 end
